@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1660994593 source:d:\3\tt_fsoft\mock_carogame\carogame\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	"Table.h"
+	"menuMode.h"
+	"Player.h"
+
+1660983022 source:d:\3\tt_fsoft\mock_carogame\carogame\table.cpp
+	"Table.h"
+
+1660982800 d:\3\tt_fsoft\mock_carogame\carogame\table.h
+	<iostream>
+	<vector>
+	<cstdlib>
+
+1660973003 source:d:\3\tt_fsoft\mock_carogame\carogame\pvsp.cpp
+	<iostream>
+	"Table.h"
+
+1660984160 source:d:\3\tt_fsoft\mock_carogame\carogame\bot.cpp
+	"Bot.h"
+
+1660994707 d:\3\tt_fsoft\mock_carogame\carogame\bot.h
+	<vector>
+	<ctime>
+	<cstdlib>
+	<math.h>
+	"Table.h"
+
+1660993753 d:\3\tt_fsoft\mock_carogame\carogame\menumode.h
+	"Table.h"
+	"Bot.h"
+	"Player.h"
+	"inipp.h"
+	"IniFile.h"
+	<bits/stdc++.h>
+
+1660994392 source:d:\3\tt_fsoft\mock_carogame\carogame\menumode.cpp
+	"menuMode.h"
+
+1660701843 source:d:\3\tt_fsoft\mock_carogame\carogame\inifile.cpp
+	"IniFile.h"
+
+1660668378 d:\3\tt_fsoft\mock_carogame\carogame\inifile.h
+	<iostream>
+	"inipp.h"
+	<fstream>
+
+1660555632 d:\3\tt_fsoft\mock_carogame\carogame\inipp.h
+	<algorithm>
+	<cctype>
+	<cstring>
+	<functional>
+	<iostream>
+	<list>
+	<locale>
+	<map>
+	<memory>
+	<sstream>
+	<string>
+
+1660984719 d:\3\tt_fsoft\mock_carogame\carogame\player.h
+	<iostream>
+	<vector>
+	"IniFile.h"
+	<windows.h>
+	<winnt.h>
+	<unistd.h>
+	<string.h>
+
+1660708273 source:d:\3\tt_fsoft\mock_carogame\carogame\player.cpp
+	"Player.h"
+
+1660984160 source:c:\users\hoila\downloads\mockproject\carogame\bot.cpp
+	"Bot.h"
+
+1660994707 c:\users\hoila\downloads\mockproject\carogame\bot.h
+	<vector>
+	<ctime>
+	<cstdlib>
+	<math.h>
+	"Table.h"
+
+1660982800 c:\users\hoila\downloads\mockproject\carogame\table.h
+	<iostream>
+	<vector>
+	<cstdlib>
+
+1660701843 source:c:\users\hoila\downloads\mockproject\carogame\inifile.cpp
+	"IniFile.h"
+
+1660668378 c:\users\hoila\downloads\mockproject\carogame\inifile.h
+	<iostream>
+	"inipp.h"
+	<fstream>
+
+1660555632 c:\users\hoila\downloads\mockproject\carogame\inipp.h
+	<algorithm>
+	<cctype>
+	<cstring>
+	<functional>
+	<iostream>
+	<list>
+	<locale>
+	<map>
+	<memory>
+	<sstream>
+	<string>
+
+1660994961 source:c:\users\hoila\downloads\mockproject\carogame\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	"Table.h"
+	"menuMode.h"
+	"Player.h"
+
+1660993753 c:\users\hoila\downloads\mockproject\carogame\menumode.h
+	"Table.h"
+	"Bot.h"
+	"Player.h"
+	"inipp.h"
+	"IniFile.h"
+	<bits/stdc++.h>
+
+1660984719 c:\users\hoila\downloads\mockproject\carogame\player.h
+	<iostream>
+	<vector>
+	"IniFile.h"
+	<windows.h>
+	<winnt.h>
+	<unistd.h>
+	<string.h>
+
+1660994392 source:c:\users\hoila\downloads\mockproject\carogame\menumode.cpp
+	"menuMode.h"
+
+1660708273 source:c:\users\hoila\downloads\mockproject\carogame\player.cpp
+	"Player.h"
+
+1660983022 source:c:\users\hoila\downloads\mockproject\carogame\table.cpp
+	"Table.h"
+
